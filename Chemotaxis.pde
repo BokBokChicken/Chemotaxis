@@ -101,4 +101,3 @@ int [] colorThree;
  		ellipse(bactX,bactY,10,10);
  	}
 }
-
